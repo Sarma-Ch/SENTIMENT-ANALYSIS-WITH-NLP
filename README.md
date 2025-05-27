@@ -69,3 +69,7 @@ Confusion Matrix: A visual way to understand how many true/false positives and n
 Dataset used for Sentiment Analysis using NLP is: The dataset used for this program was downloaded from Kaggle. It contains 205,052 entries from Flipkart, an Indian e-commerce platform. Each entry consists of a customer review and a labeled sentiment, which can
 
 be positive, negative, or neutral. This real-world dataset provides a great opportunity to build and test a practical sentiment analysis model using natural language processing techniques.
+
+** Output **
+
+
