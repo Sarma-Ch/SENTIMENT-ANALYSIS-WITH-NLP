@@ -72,4 +72,6 @@ be positive, negative, or neutral. This real-world dataset provides a great oppo
 
 ** Output **
 
+![Image](https://github.com/user-attachments/assets/f0526899-40c5-4d25-befe-6ca73a8220d6)
+
 
